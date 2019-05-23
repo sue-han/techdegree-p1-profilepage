@@ -166,6 +166,10 @@ a.social:hover {
 .clearfix {
   clear: both;
 }
+.experience {
+  text-align: left;
+  margin-left: 100px;
+}
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
